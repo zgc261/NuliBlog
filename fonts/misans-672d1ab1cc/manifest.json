@@ -1,0 +1,582 @@
+{
+  "source_sha256": "672d1ab1cc9c89a91ce57c00fd972ab7a8ac04c7444991acd841698e58837af6",
+  "source_bytes": 4882604,
+  "characters": 29571,
+  "subsets": [
+    {
+      "file": "base.woff2",
+      "characters": 572,
+      "bytes": 24940
+    },
+    {
+      "file": "common-00.woff2",
+      "characters": 256,
+      "bytes": 33252
+    },
+    {
+      "file": "common-01.woff2",
+      "characters": 256,
+      "bytes": 36560
+    },
+    {
+      "file": "common-02.woff2",
+      "characters": 256,
+      "bytes": 36736
+    },
+    {
+      "file": "common-03.woff2",
+      "characters": 256,
+      "bytes": 37940
+    },
+    {
+      "file": "common-04.woff2",
+      "characters": 256,
+      "bytes": 41564
+    },
+    {
+      "file": "common-05.woff2",
+      "characters": 256,
+      "bytes": 42412
+    },
+    {
+      "file": "common-06.woff2",
+      "characters": 203,
+      "bytes": 34808
+    },
+    {
+      "file": "extra-000.woff2",
+      "characters": 256,
+      "bytes": 14104
+    },
+    {
+      "file": "extra-001.woff2",
+      "characters": 256,
+      "bytes": 14460
+    },
+    {
+      "file": "extra-002.woff2",
+      "characters": 256,
+      "bytes": 10720
+    },
+    {
+      "file": "extra-003.woff2",
+      "characters": 256,
+      "bytes": 14800
+    },
+    {
+      "file": "extra-004.woff2",
+      "characters": 256,
+      "bytes": 26696
+    },
+    {
+      "file": "extra-005.woff2",
+      "characters": 256,
+      "bytes": 42728
+    },
+    {
+      "file": "extra-006.woff2",
+      "characters": 256,
+      "bytes": 44060
+    },
+    {
+      "file": "extra-007.woff2",
+      "characters": 256,
+      "bytes": 50504
+    },
+    {
+      "file": "extra-008.woff2",
+      "characters": 256,
+      "bytes": 41752
+    },
+    {
+      "file": "extra-009.woff2",
+      "characters": 256,
+      "bytes": 45084
+    },
+    {
+      "file": "extra-010.woff2",
+      "characters": 256,
+      "bytes": 53968
+    },
+    {
+      "file": "extra-011.woff2",
+      "characters": 256,
+      "bytes": 41964
+    },
+    {
+      "file": "extra-012.woff2",
+      "characters": 256,
+      "bytes": 53312
+    },
+    {
+      "file": "extra-013.woff2",
+      "characters": 256,
+      "bytes": 51912
+    },
+    {
+      "file": "extra-014.woff2",
+      "characters": 256,
+      "bytes": 54112
+    },
+    {
+      "file": "extra-015.woff2",
+      "characters": 256,
+      "bytes": 51720
+    },
+    {
+      "file": "extra-016.woff2",
+      "characters": 256,
+      "bytes": 46560
+    },
+    {
+      "file": "extra-017.woff2",
+      "characters": 256,
+      "bytes": 48804
+    },
+    {
+      "file": "extra-018.woff2",
+      "characters": 256,
+      "bytes": 56816
+    },
+    {
+      "file": "extra-019.woff2",
+      "characters": 256,
+      "bytes": 58016
+    },
+    {
+      "file": "extra-020.woff2",
+      "characters": 256,
+      "bytes": 49012
+    },
+    {
+      "file": "extra-021.woff2",
+      "characters": 256,
+      "bytes": 45556
+    },
+    {
+      "file": "extra-022.woff2",
+      "characters": 256,
+      "bytes": 56080
+    },
+    {
+      "file": "extra-023.woff2",
+      "characters": 256,
+      "bytes": 51432
+    },
+    {
+      "file": "extra-024.woff2",
+      "characters": 256,
+      "bytes": 49316
+    },
+    {
+      "file": "extra-025.woff2",
+      "characters": 256,
+      "bytes": 52104
+    },
+    {
+      "file": "extra-026.woff2",
+      "characters": 256,
+      "bytes": 47460
+    },
+    {
+      "file": "extra-027.woff2",
+      "characters": 256,
+      "bytes": 56244
+    },
+    {
+      "file": "extra-028.woff2",
+      "characters": 256,
+      "bytes": 63920
+    },
+    {
+      "file": "extra-029.woff2",
+      "characters": 256,
+      "bytes": 67904
+    },
+    {
+      "file": "extra-030.woff2",
+      "characters": 256,
+      "bytes": 37396
+    },
+    {
+      "file": "extra-031.woff2",
+      "characters": 256,
+      "bytes": 35524
+    },
+    {
+      "file": "extra-032.woff2",
+      "characters": 256,
+      "bytes": 48292
+    },
+    {
+      "file": "extra-033.woff2",
+      "characters": 256,
+      "bytes": 38032
+    },
+    {
+      "file": "extra-034.woff2",
+      "characters": 256,
+      "bytes": 38812
+    },
+    {
+      "file": "extra-035.woff2",
+      "characters": 256,
+      "bytes": 30224
+    },
+    {
+      "file": "extra-036.woff2",
+      "characters": 256,
+      "bytes": 40212
+    },
+    {
+      "file": "extra-037.woff2",
+      "characters": 256,
+      "bytes": 44256
+    },
+    {
+      "file": "extra-038.woff2",
+      "characters": 256,
+      "bytes": 37680
+    },
+    {
+      "file": "extra-039.woff2",
+      "characters": 256,
+      "bytes": 45716
+    },
+    {
+      "file": "extra-040.woff2",
+      "characters": 256,
+      "bytes": 47252
+    },
+    {
+      "file": "extra-041.woff2",
+      "characters": 256,
+      "bytes": 55540
+    },
+    {
+      "file": "extra-042.woff2",
+      "characters": 256,
+      "bytes": 36140
+    },
+    {
+      "file": "extra-043.woff2",
+      "characters": 256,
+      "bytes": 44312
+    },
+    {
+      "file": "extra-044.woff2",
+      "characters": 256,
+      "bytes": 41208
+    },
+    {
+      "file": "extra-045.woff2",
+      "characters": 256,
+      "bytes": 40516
+    },
+    {
+      "file": "extra-046.woff2",
+      "characters": 256,
+      "bytes": 44748
+    },
+    {
+      "file": "extra-047.woff2",
+      "characters": 256,
+      "bytes": 55524
+    },
+    {
+      "file": "extra-048.woff2",
+      "characters": 256,
+      "bytes": 41600
+    },
+    {
+      "file": "extra-049.woff2",
+      "characters": 256,
+      "bytes": 52852
+    },
+    {
+      "file": "extra-050.woff2",
+      "characters": 256,
+      "bytes": 57288
+    },
+    {
+      "file": "extra-051.woff2",
+      "characters": 256,
+      "bytes": 39136
+    },
+    {
+      "file": "extra-052.woff2",
+      "characters": 256,
+      "bytes": 35168
+    },
+    {
+      "file": "extra-053.woff2",
+      "characters": 256,
+      "bytes": 41788
+    },
+    {
+      "file": "extra-054.woff2",
+      "characters": 256,
+      "bytes": 48504
+    },
+    {
+      "file": "extra-055.woff2",
+      "characters": 256,
+      "bytes": 58364
+    },
+    {
+      "file": "extra-056.woff2",
+      "characters": 256,
+      "bytes": 47040
+    },
+    {
+      "file": "extra-057.woff2",
+      "characters": 256,
+      "bytes": 39060
+    },
+    {
+      "file": "extra-058.woff2",
+      "characters": 256,
+      "bytes": 46300
+    },
+    {
+      "file": "extra-059.woff2",
+      "characters": 256,
+      "bytes": 54712
+    },
+    {
+      "file": "extra-060.woff2",
+      "characters": 256,
+      "bytes": 56996
+    },
+    {
+      "file": "extra-061.woff2",
+      "characters": 256,
+      "bytes": 51396
+    },
+    {
+      "file": "extra-062.woff2",
+      "characters": 256,
+      "bytes": 53312
+    },
+    {
+      "file": "extra-063.woff2",
+      "characters": 256,
+      "bytes": 48260
+    },
+    {
+      "file": "extra-064.woff2",
+      "characters": 256,
+      "bytes": 48840
+    },
+    {
+      "file": "extra-065.woff2",
+      "characters": 256,
+      "bytes": 42080
+    },
+    {
+      "file": "extra-066.woff2",
+      "characters": 256,
+      "bytes": 48788
+    },
+    {
+      "file": "extra-067.woff2",
+      "characters": 256,
+      "bytes": 42008
+    },
+    {
+      "file": "extra-068.woff2",
+      "characters": 256,
+      "bytes": 47244
+    },
+    {
+      "file": "extra-069.woff2",
+      "characters": 256,
+      "bytes": 46596
+    },
+    {
+      "file": "extra-070.woff2",
+      "characters": 256,
+      "bytes": 49228
+    },
+    {
+      "file": "extra-071.woff2",
+      "characters": 256,
+      "bytes": 59340
+    },
+    {
+      "file": "extra-072.woff2",
+      "characters": 256,
+      "bytes": 54424
+    },
+    {
+      "file": "extra-073.woff2",
+      "characters": 256,
+      "bytes": 67896
+    },
+    {
+      "file": "extra-074.woff2",
+      "characters": 256,
+      "bytes": 48000
+    },
+    {
+      "file": "extra-075.woff2",
+      "characters": 256,
+      "bytes": 45344
+    },
+    {
+      "file": "extra-076.woff2",
+      "characters": 256,
+      "bytes": 49100
+    },
+    {
+      "file": "extra-077.woff2",
+      "characters": 256,
+      "bytes": 38980
+    },
+    {
+      "file": "extra-078.woff2",
+      "characters": 256,
+      "bytes": 36676
+    },
+    {
+      "file": "extra-079.woff2",
+      "characters": 256,
+      "bytes": 44432
+    },
+    {
+      "file": "extra-080.woff2",
+      "characters": 256,
+      "bytes": 54260
+    },
+    {
+      "file": "extra-081.woff2",
+      "characters": 256,
+      "bytes": 48352
+    },
+    {
+      "file": "extra-082.woff2",
+      "characters": 256,
+      "bytes": 55572
+    },
+    {
+      "file": "extra-083.woff2",
+      "characters": 256,
+      "bytes": 50804
+    },
+    {
+      "file": "extra-084.woff2",
+      "characters": 256,
+      "bytes": 51952
+    },
+    {
+      "file": "extra-085.woff2",
+      "characters": 256,
+      "bytes": 44324
+    },
+    {
+      "file": "extra-086.woff2",
+      "characters": 256,
+      "bytes": 50776
+    },
+    {
+      "file": "extra-087.woff2",
+      "characters": 256,
+      "bytes": 48508
+    },
+    {
+      "file": "extra-088.woff2",
+      "characters": 256,
+      "bytes": 48196
+    },
+    {
+      "file": "extra-089.woff2",
+      "characters": 256,
+      "bytes": 46892
+    },
+    {
+      "file": "extra-090.woff2",
+      "characters": 256,
+      "bytes": 41016
+    },
+    {
+      "file": "extra-091.woff2",
+      "characters": 256,
+      "bytes": 48596
+    },
+    {
+      "file": "extra-092.woff2",
+      "characters": 256,
+      "bytes": 40788
+    },
+    {
+      "file": "extra-093.woff2",
+      "characters": 256,
+      "bytes": 51348
+    },
+    {
+      "file": "extra-094.woff2",
+      "characters": 256,
+      "bytes": 54564
+    },
+    {
+      "file": "extra-095.woff2",
+      "characters": 256,
+      "bytes": 43728
+    },
+    {
+      "file": "extra-096.woff2",
+      "characters": 256,
+      "bytes": 47644
+    },
+    {
+      "file": "extra-097.woff2",
+      "characters": 256,
+      "bytes": 46512
+    },
+    {
+      "file": "extra-098.woff2",
+      "characters": 256,
+      "bytes": 54132
+    },
+    {
+      "file": "extra-099.woff2",
+      "characters": 256,
+      "bytes": 60932
+    },
+    {
+      "file": "extra-100.woff2",
+      "characters": 256,
+      "bytes": 57084
+    },
+    {
+      "file": "extra-101.woff2",
+      "characters": 256,
+      "bytes": 63288
+    },
+    {
+      "file": "extra-102.woff2",
+      "characters": 256,
+      "bytes": 55408
+    },
+    {
+      "file": "extra-103.woff2",
+      "characters": 256,
+      "bytes": 65468
+    },
+    {
+      "file": "extra-104.woff2",
+      "characters": 256,
+      "bytes": 64968
+    },
+    {
+      "file": "extra-105.woff2",
+      "characters": 256,
+      "bytes": 41248
+    },
+    {
+      "file": "extra-106.woff2",
+      "characters": 124,
+      "bytes": 22376
+    }
+  ]
+}

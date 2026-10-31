@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme version="php">
+<id>NuliBlog</id>
+<name>NuliBlog</name>
+<url>https://zgc261.com/</url>
+<note>一款扁平风格简洁自适应主题</note>
+<description>基于HTML5+CSS3、Bootstrap和jQuery框架侧重阅读体验，全屏响应式自适应各种屏幕终端</description>
+<path></path>
+<include></include>
+<level>1</level>
+<author><name>NuliBlog</name><email></email><url>https://zgc261.com/</url></author>
+<source><name></name><email></email><url></url></source>
+<adapted>151603</adapted>
+<version>1.0.0</version>
+<pubdate>2026-10-31</pubdate>
+<modified>2026-10-31</modified>
+<price>0</price>
+<advanced>
+  <dependency></dependency>
+  <rewritefunctions></rewritefunctions>
+  <conflict></conflict>
+</advanced>
+<sidebars>
+  <sidebar1></sidebar1>
+  <sidebar2></sidebar2>
+  <sidebar3></sidebar3>
+  <sidebar4></sidebar4>
+  <sidebar5></sidebar5>
+</sidebars>
+</theme>
